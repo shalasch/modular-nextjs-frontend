@@ -2,7 +2,8 @@
 import Image from "next/image";
 import { SiteNav } from "@/components/layout/nav";
 import { SiteFooter } from "@/components/layout/footer";
-import { WhatsAppButton, buttonVariants } from "@/components/ui/button";
+import { WhatsAppButton } from "@/components/ui/button";
+import { buttonVariants } from "@/components/ui/button-variants";
 import { Container } from "@/components/ui/container";
 import { Section } from "@/components/ui/section";
 import { site } from "@/lib/site";
