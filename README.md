@@ -1,6 +1,7 @@
 # Modular Frontend Architecture with Next.js App Router
 
-A production-grade, conversion-focused landing page for a professional education brand. Built on the Next.js App Router with a fully custom design system, segment-aware WhatsApp CTA strategy, and strict RSC/client boundary discipline.
+Production-grade modular frontend architecture built with the Next.js App Router, reusable UI primitives, strict RSC/client boundaries, environment-safe configuration patterns, and scalable component organization.
+
 
 ---
 
