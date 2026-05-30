@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" fill="none">
+  <rect x="0" y="8" width="44" height="44" rx="7" fill="#0F2444"/>
+  <text x="22" y="37" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#FAFAFA" text-anchor="middle" letter-spacing="-0.5">LS</text>
+  <text x="62" y="29" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#0F2444" letter-spacing="-0.4">Language</text>
+  <text x="62" y="50" font-family="system-ui, sans-serif" font-size="11" font-weight="500" fill="#64748B" letter-spacing="0.12em">SCHOOL</text>
+</svg>
