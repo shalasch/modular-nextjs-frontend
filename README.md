@@ -1,6 +1,8 @@
 # Modular Frontend Architecture with Next.js App Router
 
-Production-grade modular frontend architecture built with the Next.js App Router, reusable UI primitives, strict RSC/client boundaries, environment-safe configuration patterns, and scalable component organization.
+Production-grade frontend system focused on modular architecture, reusable UI primitives, strict React Server Component boundaries, environment-safe configuration patterns, and scalable component organization.
+
+Originally developed as a conversion-focused educational landing page, this project evolved into a structured frontend architecture exercise emphasizing maintainability, deployment discipline, design systems, and production-ready frontend engineering patterns.
 
 
 ---
