@@ -4,6 +4,22 @@ Production-grade frontend system focused on modular architecture, reusable UI pr
 
 Originally developed as a conversion-focused educational landing page, this project evolved into a structured frontend architecture exercise emphasizing maintainability, deployment discipline, design systems, and production-ready frontend engineering patterns.
 
+---
+
+## Engineering Principles
+
+This project was intentionally structured around a few architectural principles:
+
+* strict separation between server and client concerns
+* local component ownership instead of shared global state
+* centralized runtime configuration
+* reusable UI primitives over duplicated markup
+* environment-safe deployment patterns
+* static Tailwind class discipline
+* scalable section-based composition
+
+The goal was not only visual quality, but long-term maintainability and predictable frontend behavior.
+
 
 ---
 
